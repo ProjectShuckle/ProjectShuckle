@@ -1,0 +1,15 @@
+html {
+    background-color: #000000; 
+    background-image: url('https://www.transparenttextures.com/patterns/use-your-illusion.png');
+}
+
+h1 {
+    text-align: center; 
+    color: white; 
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 50;
+}
+
+#dog {
+    font-size: 100;
+}
